@@ -1,6 +1,6 @@
 # PigeonFile
 
-> An ultra-lightweight, self-hosted (Low-Tech) Spring Boot 4 server designed to securely and soberly synchronize text-based files (Markdown notes, TODO lists, configurations) across your devices as lightly as sending a carrier pigeon would be.
+> An ultra-lightweight, self-hosted Spring Boot 4 server designed to securely and soberly synchronize text-based files (Markdown notes, TODO lists, configurations) across your devices as lightly as sending a carrier pigeon would be.
 
 ## Concept & Philosophy
 
