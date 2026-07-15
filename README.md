@@ -13,7 +13,7 @@ PigeonFile takes a lighter and empowering approach:
 
 ## Key Differences with Existing Solutions
 
-| Feature | Classic Cloud (e.g., OneDrive) | Nextcloud | PigeonFile (Green-Sync) |
+| Feature | Classic Cloud (e.g., OneDrive) | Nextcloud | PigeonFile |
 | :--- | :--- | :--- | :--- |
 | **Hosting** | Third-party servers / Giant datacenters | Self-hosted (requires an active, heavy server) | **Lightweight self-hosting (runs on a <5W Raspberry Pi)** |
 | **Network Behavior** | Telemetry, regular scans, heavy HTTP headers | Regular polling, heavy WebDAV requests | **Fully passive (zero background network traffic)** |
