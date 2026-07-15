@@ -8,7 +8,7 @@ Most mainstream cloud storage solutions (Google Drive, OneDrive) or even self-ho
 
 PigeonFile takes a lighter and empowering approach:
 *   **Total Sovereignty:** Your files physically reside in your living room (on a Raspberry Pi or an old PC). Zero third-party trust, end-to-end control.
-*   **Digital Sobriety (Low-Tech):** The server is designed to be purely *stateless* and passive. When there is no active request, its CPU consumption drops to 0%.
+*   **Digital Sobriety:** The server is designed to be purely *stateless* and passive. When there is no active request, its CPU consumption drops to 0%.
 *   **Network Optimization:** No blind re-uploading of entire files upon minor edits. The system uses a compressed binary exchange format and a smart SHA-256 hash comparison mechanism to transfer only the strict minimum of bytes.
 
 ## Key Differences with Existing Solutions
